@@ -2,14 +2,18 @@
 
 > Example of Canny edge detection algorithm in javascript
 
-This is an implementation Canny Edge Detection algorithm in JavaScript. It's really just for fun. The story behind it is - I found an old faculty project written in C#, and decided to rewrite it in JS. I did it one evening, and it works! :D
+This forked project adds the ability to see the threshold values that the algorithm chose when no input is given.  As such, the user can thereafter better tune the parameters to experiment with how the algorithm behaves by adjusting the inputs.  Otherwise, the changes are minor and just add links to this project's fork.
 
-P.S. You can see the original C# implementation we did here - [https://github.com/petarjs/cs-canny-edge-detector](https://github.com/petarjs/cs-canny-edge-detector)!
+This is an implementation of Canny Edge Detection algorithm in JavaScript. It's really just for fun. The story behind it is - PetarJS found an old faculty project written in C#, and decided to rewrite it in JS. He did it one evening, and it works! :D
+
+P.S. You can see the original C# implementation they did here - [https://github.com/petarjs/cs-canny-edge-detector](https://github.com/petarjs/cs-canny-edge-detector)!
 
 ## Demo
 
 See it in action at  
-[https://petarjs.github.io/js-canny-edge-detector/](https://petarjs.github.io/js-canny-edge-detector/)
+* [ThadRas Fork](https://thadras.github.io/js-canny-edge-detector/)
+* [PetarJS Original](https://petarjs.github.io/js-canny-edge-detector/)
+
 
 ## Usage
 
